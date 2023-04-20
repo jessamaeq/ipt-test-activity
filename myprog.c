@@ -13,6 +13,7 @@ int main() {
 
    printf("Hello, Dae Jessa!");
    printf("Im Gelie Ann");
+   printf("Hi jessa cutie!")
 
    return 0;
 }
